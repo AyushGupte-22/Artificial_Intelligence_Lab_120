@@ -1,4 +1,4 @@
-## Data Warehousing and Mining
+# Data Warehousing and Mining
 
 📌 Introduction
 
