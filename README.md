@@ -52,7 +52,7 @@ Using feature selection techniques to enhance model performance.
 
 Clone the repository:
 
-git clone https://github.com/AyushGupte-22/Data_Warehousing_and_Mining.git
+git clone https://github.com/AyushGupte-22/Artificial_Intelligence_Lab_120
 
 Navigate to the project folder:
 
