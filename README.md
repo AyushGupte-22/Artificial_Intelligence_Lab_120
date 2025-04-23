@@ -23,6 +23,22 @@ Each practical provides **hands-on experience** in solving AI-related problems u
 | 3️⃣ | **8-Queens Problem** ♟️ | Backtracking algorithm to solve the chessboard queen placement problem |
 | 4️⃣ | **Introduction to Open Source NLP Tools** 📖 | Explored **NLTK** for text analysis, tokenization, stemming |
 | 5️⃣ | **Text Preprocessing with NLTK** 📝 | Implemented tokenization, stopword removal, stemming using **NLTK** |
+| 9️⃣ | **Machine Learning: Linear Regression with Scikit-Learn** 📈 | Built a simple linear regression model and evaluated it |
+| 🔟 | **K-Means Clustering Algorithm** 🎯 | Applied unsupervised learning for grouping data using k-means |
+
+---
+
+## 📊 Project: Social Media Sentiment Analysis  
+A mini-project focused on analyzing sentiments from social media posts using Natural Language Processing techniques.  
+
+### 🧠 Key Concepts:
+- Text preprocessing (cleaning, tokenization, stemming)
+- Sentiment classification (positive/negative)
+- Used a labeled dataset of social media texts
+
+📁 Files included:
+- `Project_SocialMediaSentimentalAnalysis_AyushGupte_22070521120.ipynb`  
+- `sentimentdataset.csv`  
 
 ---
 
