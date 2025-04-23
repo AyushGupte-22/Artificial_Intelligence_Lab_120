@@ -29,7 +29,7 @@ Each practical provides **hands-on experience** in solving AI-related problems u
 ---
 
 ## 📊 Project: Social Media Sentiment Analysis  
-A mini-project focused on analyzing sentiments from social media posts using Natural Language Processing techniques.  
+A mini-project focused on analyzing sentiments from social media posts using Natural Language Processing techniques (it includes Assignment 6-7-8-11-12).  
 
 ### 🧠 Key Concepts:
 - Text preprocessing (cleaning, tokenization, stemming)
